@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    list-style: none
+}
+
+#center {
+    text-align: center;
+}
+
+#pesquisar input[type="search"] {
+    width: 200px
+}
+
+img {
+	width: 100px;
+	height: 60px;
+}
