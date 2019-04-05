@@ -6,7 +6,7 @@
    
 **2 - Entrar no diretório do projeto clonado**
 
-**3 - Instalar o composer**
+**3 - Baixar as dependências do projeto**
 
    `composer install`
    
