@@ -38,12 +38,12 @@
   
 ## Rotas
 
-* /cliente - gerenciamento dos clientes cadastrados
+* localhost:8000/cliente - gerenciamento dos clientes cadastrados
 
-* /cliente/create = Cadastro de cliente 
+* localhost:8000/cliente/create = Cadastro de cliente 
 
-* /cliente/1/edit = Altera o cliente com id 1
+* localhost:8000/cliente/1/edit = Altera o cliente com id 1
 
-* /cliente/1 = exclui o cliente com id 1
+* localhost:8000/cliente/1 = exclui o cliente com id 1
 
-* /pesquisar?pesquisar=vi = pesquisa os clientes que contém as letras vi no nome
+* localhost:8000/pesquisar?pesquisar=vi = pesquisa os clientes que contém as letras vi no nome
